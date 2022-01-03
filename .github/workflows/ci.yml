@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - 'master'
+      - 'dj3'
     tags:
       - '*'
 
